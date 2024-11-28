@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kekw.admin">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAQAAACACQJABAAAACAAZMSAAAAIAFAAAAAAIBAAQA=</HashCode>
+      <FileName>admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.Print">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAAQAEAAAEAAAAAAAAAAAAQACAAEAAgAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.User">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAACBAIAAAAAEBAQGAAAARAAAAAIAAAgAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.Admin">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAICAAAAAAABAQAAAAQAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.AssignWorker">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAIBCEQBBgQAACAAZACAAgIAQAABEIgHCAAAAA=</HashCode>
+      <FileName>manager-worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.ViewReq">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAMAABCEAABAEAACAATECAAgYAAAABCIgDCAAAAA=</HashCode>
+      <FileName>manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.Login">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAABAAICAAQJAAAMKAAwACAIAACAAAIBgQAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.MainMenu">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABACQCAAAJAAAACAgBEDAAAAAAAAAAAABCBAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.ProfileForm">
+    <Position X="9.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAKABAIBCFCAjAQAgCEARGiAiQAMIBjhBIgHkhAAQQ=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.ServiceInfo">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAYACQAEBQAAACAgAAKIAgAQEABAIAAIEBAAAA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.CheckoutForm">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCEAABEABACAAAHqAwQAwIAAKIAAAABBQEI=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.Register">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAhJgATAABBAAAEDAgQACCiEQAIAgABAQAAFAAQA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.ChangePassword">
+    <Position X="2" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAhBAATAAABCAAkCAAYECQBAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kekw.ProcessReq">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAAIBCAAABAQAACAAQECIAgIQAAABIKgCCAAAAA=</HashCode>
+      <FileName>workerform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

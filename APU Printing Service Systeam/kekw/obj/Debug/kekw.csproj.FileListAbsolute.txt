@@ -1,0 +1,162 @@
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kekw\kekw\bin\Debug\kekw.exe.config
+C:\Users\asus\source\repos\kekw\kekw\bin\Debug\kekw.exe
+C:\Users\asus\source\repos\kekw\kekw\bin\Debug\kekw.pdb
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.exe
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.pdb
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.Login.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.Form3.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.Form9.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.Register.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.Form4.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\asus\source\repos\kekw\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\bin\Debug\kekw.exe.config
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\bin\Debug\kekw.exe
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\bin\Debug\kekw.pdb
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.Login.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.Form3.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.Form4.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.Register.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.ManagerMenu.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.exe
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.pdb
+C:\Users\User\Desktop\作业\kekw (3)\kekw\kekw\obj\Debug\kekw.manager_worker.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\bin\Debug\kekw.exe.config
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\bin\Debug\kekw.exe
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\bin\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\bin\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.Login.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.ProfileForm.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.Form4.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.Register.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.manager_worker.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.ManagerMenu.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.manager_worker.en-GB.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.exe
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.workerform.resources
+C:\Users\User\Desktop\33211\kekw (3)\kekw\kekw\obj\Debug\kekw.admin.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.admin.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.Login.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.ProfileForm.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.Form4.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.Register.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.exe
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\bin\Debug\kekw.exe.config
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\bin\Debug\kekw.exe
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\bin\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\bin\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.AssignWorker.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.ViewReq.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.ProcessReq.resources
+C:\Users\User\Desktop\33211\kekw (3) - 副本\kekw\kekw\obj\Debug\kekw.AssignWorker.en-GB.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\bin\Debug\kekw.exe.config
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\bin\Debug\kekw.exe
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\bin\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\bin\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.admin.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.Login.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.ProfileForm.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.Form4.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.Register.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.AssignWorker.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.ViewReq.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.ProcessReq.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.AssignWorker.en-GB.resources
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.exe
+C:\Users\User\Desktop\33211\kekw main\kekw\kekw\obj\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\bin\Debug\kekw.exe.config
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\bin\Debug\kekw.exe
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\bin\Debug\kekw.pdb
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\bin\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.admin.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.Login.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.ProfileForm.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.Form4.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.Register.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.AssignWorker.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.ViewReq.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.ProcessReq.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.AssignWorker.en-GB.resources
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.exe
+C:\Users\User\Desktop\33211\112233\kekw main\kekw\kekw\obj\Debug\kekw.pdb
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\bin\Debug\kekw.exe.config
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\bin\Debug\kekw.exe
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\bin\Debug\kekw.pdb
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\bin\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.admin.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.Login.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.MainMenu.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.ProfileForm.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.ServiceInfo.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.CheckoutForm.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.Register.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.ChangePassword.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.AssignWorker.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.ViewReq.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.Properties.Resources.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.ProcessReq.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.AssignWorker.en-GB.resources
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\en-GB\kekw.resources.dll
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.exe
+C:\Users\User\Desktop\ioop\ioop assignment\APU Printing Service Systeam\kekw\obj\Debug\kekw.pdb
